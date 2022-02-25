@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The worlds observation for keeping their masse days and festivall dayes (so called) fathomed and found groundless, or without a bottome, so needs must fall that hath not whereon to stand, for what is there to uphold it but papists traditions, heathenish manners or customes of nations which are vaine? and they that observe lying vanities, forsake their own mercy.</title>
+            <author>W. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58830</idno>
+            <idno type="STC">Wing S209</idno>
+            <idno type="STC">ESTC R213987</idno>
+            <idno type="EEBO-CITATION">99826229</idno>
+            <idno type="PROQUEST">99826229</idno>
+            <idno type="VID">30626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30626)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1800:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The worlds observation for keeping their masse days and festivall dayes (so called) fathomed and found groundless, or without a bottome, so needs must fall that hath not whereon to stand, for what is there to uphold it but papists traditions, heathenish manners or customes of nations which are vaine? and they that observe lying vanities, forsake their own mercy.</title>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for M.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Church of England --  Early works to 1800.</term>
+               <term>Calendars --  Early works to 1800.</term>
+               <term>Christmas --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Saints --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30626:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>The Worlds Obſervation for keeping their Maſſe-days, and Fe<g ref="char:EOLhyphen"/>ſtivall dayes (ſo called) fathomed and found groundleſs, or without a bottome, ſo needs muſt fall that hath not whereon to ſtand, for what is there to uphold it but Papiſts traditions, Heatheniſh manners or cu<g ref="char:EOLhyphen"/>ſtomes of Nations which are vaine? and they that obſerve lying vani<g ref="char:EOLhyphen"/>ties, forſake their own mercy.</head>
+            <p>AND where do you read in all the Scriptures the writings of the holy Men of God of a day called Chriſtmaſ's day, indeed in the writings of the Pope and Papiſts you may reade there of ſeverall Maſſe-days Candle<g ref="char:EOLhyphen"/>maſs-day, Lammaſſe-day, Michaelmaſſe-day, but where did Chriſt, his Miniſters, Meſſengers, and Followers appoint Maſſe-dayes: Do you ſpeake truth then when you call it his Maſſe-day Chriſtmaſſe day, when he never appointed it nor commanded it, nor none of his Servants, Diſciples or Followers? Is not your worke then your own who required it at your hands, if you cannot make it appeare that Chriſt had a Maſſe-day, then it is your own Maſſe-day or the Papiſts Maſſe-day whom you are found imitators off, and ſo are you not upholding Popery keeping the Popes yoke upon your neckes, whileſt you are obſerving Popiſh dayes, feaſts, names, times and ſea<g ref="char:EOLhyphen"/>ſons, and ſee not all times in the Fathers hand.</p>
+            <p>The Apoſtle declared againſt obſerving dayes and Moneths and times, which you are found obſerving off, ſo out of their Doctrine, therefore doth it not appeare your worke is your owne, that you are of a contrary mind who ſaid I am afraid of you, leaſt I have beſtowed upon you labour in vaine, and writ unto them, and asked who had bewitched them; Obſerve a day and kill the juſt, or they who live in pleaſures on Earth, and are wanton, doe they not kill the juſt? Or is that the end of your obſerving dayes and times to put an end to the Creatures of God to ſpend them upon your luſts, to ſwallow up the Creatures and make havock of them, which the will have<g ref="char:EOLhyphen"/>ing its liberty runnes with greedineſſe into. Did ever the Saints follow ſuch practiſe the holy men of God eate and drinke but did not riſe up to play, but they indeed whom God deſtroyed did ſo. Therefore reade your ſelves and conſider every one betimes the worke of your day and the end of your worke; Are you not to doe all what<g ref="char:EOLhyphen"/>ſoever you doe to the praiſe and glory of God, is drunkenneſſe, night watching, revelling, riotting, banketting, gameing, danceing, ſporting, workes done to his glory or that doe praiſe him, or doth it not diſhonour him people to ſpend their dayes in vanity? Or doth carding, diceing, fooliſh jesting, riddles, idle talkeing, corrupt communication, stories and fables glorifie God, what is done in your eatings, drinkings, ſuperfluities and wan<g ref="char:EOLhyphen"/>tonneſſe, reade well and conſider theſe things for God will not be mocked. Did God make the Creatures to ſerve you, and you to ſerve your luſts, or is it equall ſo to doe? and ſuch as every one ſoweth ſuch ſhall he reape, mind therefore the weight and worth of your immortall ſoules, and ſpend no longer your time in vanity yee light airy wanton ones, that love your pleaſures, ſports and paſtimes more then God, ſo while you have time prize it. For doth not the light condemne you for theſe things, the witneſſe of God in your conſcience. Or how can you expect God ſhould love you when you love your vanities, ſports and pleaſures more then him; Or is that a honouring of God or of Chriſt or glorifying him, whoſe the Earth is and the fulneſſe thereof to kill and deſtroy his Creatures and ſpend them upon your luſts, and looſe and ſpend away your precious time with your fiddles muſick ſongs, riddles, fooliſh jeſting, idle talking and corrupt communication, doth not the Scriptures declare that with ſuch things the ſpirit of God is greived: Ought you not rather to delight your ſelves in the Lord and take your pleaſure in him, and not to ſpend away your dayes in vanity and follow after leaſing, that the Lord might dwell among you and delight to doe you good.</p>
+            <p>Or who required that honour from you which you ſay you are doing for keeping of the Saints dayes, St. Steven St. John and your Lady day, what Lord hath required ſuch worſhip from you except the Pope from whom you have it by tradition, or what other example can you ſhew for your practiſe herein? Did they whom you call St. Steven, or St. John in their day teach any ſuch Doctrine or give any ſuch example. And was not Mary bleſt and highly favoured who was in the feare of God, and ſaid the mercy of God is from generation to gene<g ref="char:EOLhyphen"/>ration towards them that feare him. But this doth condemne you who are out of his feare ſo out of his mercy, and feeding your ſelves without feare. And what is to you the holy day that are ſtrangers to the holy life, can you ſay you live their life that pretend to keep their day, otherwiſe doth it not ſhew you are ignorant and know not what you are doing, your worke is groundleſſe without a bottome, that know not the Saints life nor their day who are from the light which leades to the holy day to the holy life, and ſo in the darkneſſe ſtumbling where you cannot tell what you are doing in your darke workes, but the children of light ſee you and can have no fellowſhip with your unfruitfull works of darkneſſe which are to be reproved and for which you are reproved in ſecret when no eye ſeeth you for your hard ſpeeches ungodly deeds and evill actions, the light reproves you wherewith Chriſt hath enlightened you who lighteth every man that cometh into the world, who love the darkneſſe rather then light becauſe your deeds are evill, which light wilbe your condemnation hating it and walking contrary unto it, which is the ſalvation of all that believe and obey. So loving the light wherewith you are enlightened and re<g ref="char:EOLhyphen"/>ceiving it there will be a teacher preſent with you at all times and in all places to teach you ſobriety and the feare of God, alwaies to depart from evill.</p>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: Printed for M. W. 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
